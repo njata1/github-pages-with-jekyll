@@ -1,3 +1,7 @@
+---
+title: "Your first lesson"
+date: 2019-09-11
+---
 Blogging is a serious sport so all of you who are just here for fun LEAVE!
 
 
